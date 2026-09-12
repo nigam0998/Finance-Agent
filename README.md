@@ -42,5 +42,4 @@ python code/main.py
 
 The system will generate an `output.csv` file containing the predictions and a usage report located at `code/evaluation/usage_report.md` tracking the AI token consumption.
 
-## Author
-Devyansh Nigam
+
